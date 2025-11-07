@@ -46,11 +46,9 @@ O **Educa Bot** é um assistente acadêmico inteligente que utiliza tecnologias 
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Site do projeto upado no VERCEL
 
-### Pré-requisitos
-- Navegador web moderno (Chrome, Firefox, Safari, Edge)
-- Conexão com internet (para carregar o chatbot)
+- https://trabalho-ia-diogo.vercel.app/
 
 ## 🧪 Testes Realizados
 
